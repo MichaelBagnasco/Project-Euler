@@ -1,4 +1,4 @@
-import { trialDivision } from "../../utils/factorization";
+import { trialDivision } from "../../lib/factorization";
 
 const n = 600851475143;
 

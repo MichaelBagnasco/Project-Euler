@@ -1,4 +1,4 @@
-import { leastCommonMultiple } from "../../utils";
+import { leastCommonMultiple } from "../../lib";
 
 let lcm = 1;
 

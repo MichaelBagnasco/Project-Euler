@@ -1,4 +1,4 @@
-import { isPalindromicNumber } from "../../utils/palindrome";
+import { isPalindromicNumber } from "../../lib/palindrome";
 
 function getLargestPalindromeProduct(digits: number): number {
   const palindromeProducts: number[] = [];
